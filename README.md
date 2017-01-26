@@ -5,21 +5,21 @@
 
 ### 国内：
 
-[掘金](https://gold.xitu.io)
-[众成翻译](http://www.zcfy.cc)
-[segmentfault](https://segmentfault.com/)
-[CSDN](http://blog.csdn.net/)
-[博客园](http://www.cnblogs.com/)
-[伯乐在线](http://web.jobbole.com/)
-[V2EX](https://www.v2ex.com)
-[MDN](https://developer.mozilla.org/zh-CN/)
+- [掘金](https://gold.xitu.io)
+- [众成翻译](http://www.zcfy.cc)
+- [segmentfault](https://segmentfault.com/)
+- [CSDN](http://blog.csdn.net/)
+- [博客园](http://www.cnblogs.com/)
+- [伯乐在线](http://web.jobbole.com/)
+- [V2EX](https://www.v2ex.com)
+- [MDN](https://developer.mozilla.org/zh-CN/)
 
 ### 国外：
-[Medium](https://medium.com/)
-[quora](https://www.quora.com/)
-[github](https://github.com/)
-[stackoverflow](http://stackoverflow.com/)
-[MDN](https://developer.mozilla.org/zh-CN/)
+- [Medium](https://medium.com/)
+- [quora](https://www.quora.com/)
+- [github](https://github.com/)
+- [stackoverflow](http://stackoverflow.com/)
+- [MDN](https://developer.mozilla.org/zh-CN/)
 
 ## 工具
 ### 网络调试
