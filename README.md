@@ -21,6 +21,32 @@
 - [stackoverflow](http://stackoverflow.com/)
 - [MDN](https://developer.mozilla.org/zh-CN/)
 
+## 博客
+
+### 西电大家庭
+- [luckyjing](http://www.luckyjing.com/)
+- [潇神](http://www.leavesongs.com/)
+- [qiutc](https://qiutc.me/)
+- [damonare](http://damonare.github.io/)
+- [Icarus](https://xdlrt.github.io/)
+
+### 业界大牛
+- [阮一峰](http://www.ruanyifeng.com/blog/)
+- [vajoy](http://www.cnblogs.com/vajoy/)
+- [司徒正美](http://www.cnblogs.com/rubylouvre/)
+- [黄玄](http://huangxuan.me/)
+- [张鑫旭](http://www.zhangxinxu.com/)
+- [小胡子哥](http://barretlee.com/entry/)
+- [张云龙](https://github.com/fouber/blog)
+
+### 团队博客
+- [奇舞周刊](https://weekly.75team.com/)
+- [exp team](https://exp-team.github.io/)
+- [天猫前端](http://tmallfe.github.io/)
+- [阿里巴巴国际UED](http://www.aliued.com/)
+- [alloyteam](http://alloyteam.github.io/)
+- [w3cplus](http://www.w3cplus.com/)
+
 ## 工具
 ### 网络调试
 - wireshark
@@ -35,7 +61,7 @@
 - onetab
 
 ### 其它
-- beyond compare
+- beyond compare: 比较文件差异
 - LICEcap：录制gif的利器。
 - Typora：写md文档的利器
 - paint.net：缩减版的ps,平时用很方便，秒开
