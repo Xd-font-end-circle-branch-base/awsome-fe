@@ -27,6 +27,7 @@
 - [luckyjing](http://www.luckyjing.com/)
 - [潇神](http://www.leavesongs.com/)
 - [qiutc](https://qiutc.me/)
+- [michellewkx](http://michellewkx.me)
 - [damonare](http://damonare.github.io/)
 - [Icarus](https://xdlrt.github.io/)
 
