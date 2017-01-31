@@ -25,6 +25,7 @@
 
 ### 西电大家庭
 - [luckyjing](http://www.luckyjing.com/)
+- [雨浣潇湘](http://www.thjiang.com/)
 - [潇神](http://www.leavesongs.com/)
 - [qiutc](https://qiutc.me/)
 - [michellewkx](http://michellewkx.me)
