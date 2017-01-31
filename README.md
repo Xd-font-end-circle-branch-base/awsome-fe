@@ -50,9 +50,9 @@
 
 ## 工具
 ### 网络调试
-- wireshark
-- fiddler
-- postman
+- [wireshark](https://www.wireshark.org/download.html)
+- [fiddler](http://www.telerik.com/fiddler)
+- [postman](https://www.getpostman.com/)
 
 ### chrome插件
 - jsonviewer
